@@ -3,7 +3,7 @@
 
 This repository contains details for my session at Kaggle Days - Mumbai, 2019 for humans.
 
-## [Slides](https://docs.google.com/presentation/d/1NeRVROUhC2y--C5IoneaUaSd_E6Q_o3E/edit#slide=id.p1)
+## [Slides](https://docs.google.com/presentation/d/1pRwi4Hyl89MU4w9X3-A9QwnLXcvsur-kkJZdLzcoNCs/edit#slide=id.p1)
 
 ## [Colab link](https://colab.research.google.com/drive/1xa9BfTz9uMPKZRZdHpqjj0fKTRp_CoFN) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xa9BfTz9uMPKZRZdHpqjj0fKTRp_CoFN)
 
