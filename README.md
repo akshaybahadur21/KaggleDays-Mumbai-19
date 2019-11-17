@@ -5,6 +5,6 @@ This repository contains details for my session at Kaggle Days - Mumbai, 2019 fo
 
 ## [Slides](https://docs.google.com/presentation/d/1pRwi4Hyl89MU4w9X3-A9QwnLXcvsur-kkJZdLzcoNCs/edit#slide=id.p1)
 
-## [Colab link](https://colab.research.google.com/drive/1xa9BfTz9uMPKZRZdHpqjj0fKTRp_CoFN) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xa9BfTz9uMPKZRZdHpqjj0fKTRp_CoFN)
+## [Colab link](https://colab.research.google.com/drive/1hws1UBxfR_i3DLIgOKEa9_omiaEai8xf) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hws1UBxfR_i3DLIgOKEa9_omiaEai8xf)
 
 ## [Sign Language Petition](http://bit.ly/isl-petition)
